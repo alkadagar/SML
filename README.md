@@ -1,1 +1,1 @@
-Serverless Machine Learning - dummy project 
+Serverless Machine Learning - tutorial
